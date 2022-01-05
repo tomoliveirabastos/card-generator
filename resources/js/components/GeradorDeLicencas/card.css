@@ -1,0 +1,36 @@
+.card-header-ll{
+    font-size: 25px !important;
+    border-bottom: 1px black solid;
+    width: 100%;
+}
+
+.card-image-ll{
+    border-left: 1px black solid;
+    width: 100%;
+    /* object-fit: cover; */
+}
+
+.card-footer-ll{
+    padding: 10px;
+}
+
+.card-border-ll{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card-background-ll {
+    padding: 0 40px 10px 13px;
+    border-radius: 10px;
+    transform: rotate(-25deg);
+}
+
+.card-center-ll{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.card-padding-0 {
+    padding-right:0;
+    padding-left:0;
+}
