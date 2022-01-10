@@ -12,7 +12,8 @@ class MainController extends Controller
      */
     public function index()
     {
-        return response('ok');
+        return view("game");
+
     }
 
     /**
