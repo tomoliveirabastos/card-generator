@@ -12,7 +12,7 @@ class MainController extends Controller
      */
     public function index()
     {
-        return redirect('/gerador-de-licencas');
+        return response('ok');
     }
 
     /**
