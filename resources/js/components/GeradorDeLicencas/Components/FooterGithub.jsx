@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function FooterGithub(props) {
+export default function FooterGithub() {
 
     return (
         <React.Fragment>

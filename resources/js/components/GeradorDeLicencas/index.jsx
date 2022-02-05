@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom';
 import App from './App';
-import './card.css'
+import '../card.css'
 
 const elem = document.getElementById('gerador-de-licencas');
 

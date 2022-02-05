@@ -13,3 +13,4 @@ require('./bootstrap');
  */
 
 require('./components/GeradorDeLicencas/index.jsx');
+require('./components/Youtube/index.jsx');
